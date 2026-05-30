@@ -5,9 +5,7 @@ using a comparative study of CNN, LSTM, and hybrid CNN-LSTM deep learning archit
 
 **Dataset:** ICBHI 2017 Respiratory Sound Database — 920 recordings, 126 patients, 5.5 hours  
 **Disease Classes:** Normal · Pneumonia · COPD · Asthma · Bronchitis  
-**Deployment:** Interactive Streamlit web application  
-**Team:** Sneha Rathod · Shravani Chavan · Vaidehi Jadhav  
-**Guide:** Dr. Venkat Patil | Smt. Indira Gandhi College of Engineering, Ghansoli
+**Deployment:** Interactive Streamlit web application    
 
 ---
 
